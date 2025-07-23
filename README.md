@@ -69,7 +69,7 @@ For full‑quality RTX simulation (FXAA + bloom + reflections):
    * Download "RTX‑like Reshade preset for NVE" (v2.0 latest) .
 4. **Deploy Preset**
 
-   * Drop `.ini` and associated shaders into GTA5 directory.
+   * Run `.exe` and associated shaders into GTA5 directory.
 5. **Activate In‑Game**
 
    * Launch GTA, open Reshade menu (Home/End key), select the preset.
